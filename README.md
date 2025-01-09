@@ -1,0 +1,1 @@
+# HibernateWithCRUD_Operation_InHQL_Query
